@@ -3,9 +3,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Data Science | Machine Learning | Data Visualization
--  **Languages :** Python, SQL
--  **Hobbies :** Investing & Music :headphones:
+-  **Passionate About :** Data Science | Machine Learning | Data Visualization
+-  **Languages :** Python | SQL
+-  **Learning :** MongoDB | AWS
+-  **Hobbies :** Investing | Music :headphones:
 -  **Fact :** Bad data costs US businesses alone $600 billion annually. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
