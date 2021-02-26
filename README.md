@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Machine Learning and Data Science :zap: | Open-Source :fire:	
+-  **Learning :** Data Science | Machine Learning | Data Visualization
 -  **Languages :** Python, SQL
 -  **Hobbies :** Investing & Music :headphones:
 -  **Fact :** Bad data costs US businesses alone $600 billion annually. 
